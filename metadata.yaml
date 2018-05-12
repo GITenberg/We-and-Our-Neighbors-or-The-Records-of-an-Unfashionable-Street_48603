@@ -1,9 +1,13 @@
 _repo: We-and-Our-Neighbors-or-The-Records-of-an-Unfashionable-Street_48603
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fredericks, Alfred
     gutenberg_agent_id: '25315'
     url: http://www.gutenberg.org/2009/agents/25315
+covers:
+- cover_type: archival
+  image_path: 48603-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48603#We-and-Our-Neighbors-or-The-Records-of-an-Unfashionable-Street
 gutenberg_issued: '2015-03-29'
 gutenberg_type: Text
 identifiers:
