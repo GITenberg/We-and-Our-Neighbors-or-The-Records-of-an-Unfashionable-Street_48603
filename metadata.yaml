@@ -31,6 +31,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'We and Our Neighbors
 
   or, The Records of an Unfashionable Street'
